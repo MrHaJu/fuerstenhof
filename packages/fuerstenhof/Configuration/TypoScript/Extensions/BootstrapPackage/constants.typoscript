@@ -1,0 +1,17 @@
+@import 'EXT:bootstrap_package/Configuration/TypoScript/constants.typoscript'
+
+page {
+    fluidtemplate {
+        layoutRootPath = EXT:fuerstenhof/Resources/Private/Layouts/Page/
+        partialRootPath = EXT:fuerstenhof/Resources/Private/Partials/Page/
+        templateRootPath = EXT:fuerstenhof/Resources/Private/Templates/Page/
+    }
+}
+
+plugin.bootstrap_package_contentelements {
+    view {
+        templateRootPath = EXT:fuerstenhof/Resources/Private/Templates/ContentElements/
+        partialRootPath = EXT:fuerstenhof/Resources/Private/Partials/ContentElements/
+        layoutRootPath = EXT:fuerstenhof/Resources/Private/Layouts/ContentElements/
+    }
+}

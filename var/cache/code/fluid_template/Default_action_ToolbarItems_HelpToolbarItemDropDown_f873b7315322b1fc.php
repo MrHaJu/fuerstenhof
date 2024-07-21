@@ -21,6 +21,10 @@ class Default_action_ToolbarItems_HelpToolbarItemDropDown_f873b7315322b1fc exten
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
 ));
     }
     /**

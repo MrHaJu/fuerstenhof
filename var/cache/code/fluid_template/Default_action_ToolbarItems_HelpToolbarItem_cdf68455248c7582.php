@@ -21,6 +21,10 @@ class Default_action_ToolbarItems_HelpToolbarItem_cdf68455248c7582 extends \TYPO
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
 ));
     }
     /**

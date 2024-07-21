@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@bk2k": ["./vendor/bk2k/bootstrap-package/"]
+    }
+
+  }
+}

@@ -21,6 +21,10 @@ class Default_action_ToolbarItems_ClearCacheToolbarItem_6869b58337a664f7 extends
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
 ));
     }
     /**

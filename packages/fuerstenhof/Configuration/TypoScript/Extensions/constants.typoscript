@@ -1,0 +1,4 @@
+
+
+# Include Overrides for Extensions
+@import 'EXT:fuerstenhof/Configuration/TypoScript/Extensions/BootstrapPackage/constants.typoscript'

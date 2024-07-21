@@ -21,6 +21,10 @@ class partial_Menus_SelectBoxJumpMenu_625a87193fa38822 extends \TYPO3Fluid\Fluid
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
 ));
     }
     /**

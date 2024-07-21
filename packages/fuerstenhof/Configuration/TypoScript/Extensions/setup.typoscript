@@ -1,0 +1,4 @@
+@import 'EXT:bootstrap_package/Configuration/TypoScript/setup.typoscript'
+
+# Include Overrides for Extensions
+@import 'EXT:fuerstenhof/Configuration/TypoScript/Extensions/BootstrapPackage/setup.typoscript'

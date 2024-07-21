@@ -21,6 +21,10 @@ class Default_action_ToolbarItems_ShortcutToolbarItemItem_3132b23be7f529f6 exten
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
 ));
     }
     /**

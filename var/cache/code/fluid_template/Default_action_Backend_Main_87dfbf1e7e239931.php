@@ -21,6 +21,10 @@ class Default_action_Backend_Main_87dfbf1e7e239931 extends \TYPO3Fluid\Fluid\Cor
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
 ));
     }
     /**

@@ -21,6 +21,10 @@ class partial_Backend_ModuleMenu_84181ba7bd8a359c extends \TYPO3Fluid\Fluid\Core
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
   'be' => 
   array (
     0 => 'TYPO3\\CMS\\Backend\\ViewHelpers',

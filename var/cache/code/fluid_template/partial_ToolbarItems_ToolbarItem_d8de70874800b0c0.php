@@ -21,6 +21,10 @@ class partial_ToolbarItems_ToolbarItem_d8de70874800b0c0 extends \TYPO3Fluid\Flui
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
 ));
     }
     /**

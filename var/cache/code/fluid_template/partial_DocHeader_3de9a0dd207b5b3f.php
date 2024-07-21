@@ -21,6 +21,10 @@ class partial_DocHeader_3de9a0dd207b5b3f extends \TYPO3Fluid\Fluid\Core\Compiler
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
 ));
     }
     /**

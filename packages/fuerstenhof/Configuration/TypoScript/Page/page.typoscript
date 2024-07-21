@@ -1,0 +1,12 @@
+page = PAGE
+page {
+    includeCSS >
+
+    includeJS >
+
+    includeJSFooter >
+
+    includeJSFooterlibs >
+
+
+}

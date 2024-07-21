@@ -21,6 +21,10 @@ class Default_action_ToolbarItems_SystemInformationDropDown_5bdd75005dd3c813 ext
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
 ));
     }
     /**

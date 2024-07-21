@@ -37,12 +37,16 @@
         "typo3/cms-webhooks": "^12.4",
         "typo3/cms-workspaces": "^12.4",
         "typo3/minimal": "^12",
-        "mrhaju/fuerstenhof": "@dev"
+        "mrhaju/fuerstenhof": "^1.0",
+        "praetorius/vite-asset-collector": "^1.9",
+        "bk2k/bootstrap-package": "^14.0",
+        "mouf/nodejs-installer": "^1.0"
     },
     "config": {
         "allow-plugins": {
             "typo3/class-alias-loader": true,
-            "typo3/cms-composer-installers": true
+            "typo3/cms-composer-installers": true,
+            "mouf/nodejs-installer": true
         }
     },
     "repositories": {

@@ -21,6 +21,10 @@ class Default_action_ToolbarItems_ToolbarItem_e6aaa654d21cfc2a extends \TYPO3Flu
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
 ));
     }
     /**

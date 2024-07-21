@@ -21,6 +21,10 @@ class Default_action_ToolbarItems_UserToolbarItemDropDown_a37778dcf657cdd2 exten
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
   'be' => 
   array (
     0 => 'TYPO3\\CMS\\Backend\\ViewHelpers',

@@ -21,6 +21,10 @@ class partial_Backend_Topbar_15873c4292561679 extends \TYPO3Fluid\Fluid\Core\Com
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
   'be' => 
   array (
     0 => 'TYPO3\\CMS\\Backend\\ViewHelpers',

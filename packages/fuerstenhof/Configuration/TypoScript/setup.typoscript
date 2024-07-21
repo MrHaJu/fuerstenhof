@@ -1,1 +1,13 @@
-@import 'EXT:fuerstenhof/Configuration/TypoScript/Setup/*.typoscript'
+@import 'EXT:fuerstenhof/Configuration/TypoScript/Extensions/setup.typoscript'
+@import 'EXT:fuerstenhof/Configuration/TypoScript/Page/config.typoscript'
+@import 'EXT:fuerstenhof/Configuration/TypoScript/Page/page.typoscript'
+
+[applicationContext matches "/^Development/"]
+  config {
+      compressJs = 0
+      compressCss = 0
+      concatenateJs = 0
+      concatenateCss = 0
+      no_cache = 1
+  }
+[end]

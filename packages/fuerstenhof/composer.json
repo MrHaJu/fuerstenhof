@@ -1,5 +1,6 @@
 {
   "name": "mrhaju/fuerstenhof",
+  "version": "1.0.0",
   "description": "Template",
   "type": "typo3-cms-extension",
   "license": "GPL-2.0-or-later",

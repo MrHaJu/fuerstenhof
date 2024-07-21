@@ -21,6 +21,10 @@ class Default_action_ToolbarItems_SystemInformationToolbarItem_29c0a1ef4d405689 
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
 ));
     }
     /**

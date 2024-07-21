@@ -1,0 +1,63 @@
+//
+// use needed Bootstrap Files
+//
+@import "@bk2k/Resources/Public/Contrib/bootstrap5/scss/bootstrap";
+
+//
+// Compat
+//
+@import "@bk2k/Resources/Public/Scss/bootstrap5/compat/text";
+@import "@bk2k/Resources/Public/Scss/bootstrap5/compat/form";
+@import "@bk2k/Resources/Public/Scss/bootstrap5/compat/embed";
+
+//
+// Functions
+//
+@import "@bk2k/Resources/Public/Scss/components/functions/a11y";
+
+//
+// Components
+//
+@import "@bk2k/Resources/Public/Scss/components/form";
+@import "@bk2k/Resources/Public/Scss/components/button";
+@import "@bk2k/Resources/Public/Scss/components/navbar";
+@import "@bk2k/Resources/Public/Scss/components/nav";
+@import "@bk2k/Resources/Public/Scss/components/backendlayout";
+@import "@bk2k/Resources/Public/Scss/components/section";
+@import "@bk2k/Resources/Public/Scss/components/frame";
+@import "@bk2k/Resources/Public/Scss/components/breadcrumb";
+@import "@bk2k/Resources/Public/Scss/components/subnav";
+@import "@bk2k/Resources/Public/Scss/components/footer";
+@import "@bk2k/Resources/Public/Scss/components/carousel";
+@import "@bk2k/Resources/Public/Scss/components/accordion";
+@import "@bk2k/Resources/Public/Scss/components/tab";
+@import "@bk2k/Resources/Public/Scss/components/card";
+@import "@bk2k/Resources/Public/Scss/components/audio";
+@import "@bk2k/Resources/Public/Scss/components/link";
+@import "@bk2k/Resources/Public/Scss/components/figure";
+@import "@bk2k/Resources/Public/Scss/components/gallery";
+@import "@bk2k/Resources/Public/Scss/components/address";
+@import "@bk2k/Resources/Public/Scss/components/table";
+@import "@bk2k/Resources/Public/Scss/components/list";
+@import "@bk2k/Resources/Public/Scss/components/filelink";
+@import "@bk2k/Resources/Public/Scss/components/blockquote";
+@import "@bk2k/Resources/Public/Scss/components/icongroup";
+@import "@bk2k/Resources/Public/Scss/components/timeline";
+@import "@bk2k/Resources/Public/Scss/components/textpic";
+@import "@bk2k/Resources/Public/Scss/components/textteaser";
+@import "@bk2k/Resources/Public/Scss/components/texticon";
+@import "@bk2k/Resources/Public/Scss/components/text";
+@import "@bk2k/Resources/Public/Scss/components/thumbnail-menu";
+@import "@bk2k/Resources/Public/Scss/components/sociallink";
+@import "@bk2k/Resources/Public/Scss/components/well";
+@import "@bk2k/Resources/Public/Scss/components/pagination";
+@import "@bk2k/Resources/Public/Scss/components/scrolltop";
+@import "@bk2k/Resources/Public/Scss/components/page";
+@import "@bk2k/Resources/Public/Scss/components/misc";
+@import "@bk2k/Resources/Public/Scss/components/contentcontainer";
+
+//
+// Plugins
+//
+@import "@bk2k/Resources/Public/Scss/plugins/cookieconsent";
+@import "@bk2k/Resources/Public/Scss/plugins/photoswipe";

@@ -21,6 +21,10 @@ class layout_Module_html_d62c737c6f258188 extends \TYPO3Fluid\Fluid\Core\Compile
   array (
     0 => 'TYPO3\\CMS\\Form\\ViewHelpers',
   ),
+  'bk2k' => 
+  array (
+    0 => 'BK2K\\BootstrapPackage\\ViewHelpers',
+  ),
 ));
     }
     /**

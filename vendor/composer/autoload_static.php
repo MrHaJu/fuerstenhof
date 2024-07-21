@@ -123,6 +123,7 @@ class ComposerStaticInit6d4f4e950350e042a4f1790be25ef53a
             'Symfony\\Component\\Config\\' => 25,
             'Symfony\\Component\\Clock\\' => 24,
             'Symfony\\Component\\Cache\\' => 24,
+            'ScssPhp\\ScssPhp\\' => 16,
         ),
         'P' => 
         array (
@@ -134,11 +135,13 @@ class ComposerStaticInit6d4f4e950350e042a4f1790be25ef53a
             'Psr\\Container\\' => 14,
             'Psr\\Clock\\' => 10,
             'Psr\\Cache\\' => 10,
+            'Praetorius\\ViteAssetCollector\\' => 30,
             'PhpParser\\' => 10,
             'PHPStan\\PhpDocParser\\' => 21,
         ),
         'M' => 
         array (
+            'Mouf\\NodeJsInstaller\\' => 21,
             'Masterminds\\' => 12,
         ),
         'G' => 
@@ -170,6 +173,7 @@ class ComposerStaticInit6d4f4e950350e042a4f1790be25ef53a
         array (
             'Base32\\' => 7,
             'BaconQrCode\\' => 12,
+            'BK2K\\BootstrapPackage\\' => 22,
         ),
     );
 
@@ -492,6 +496,10 @@ class ComposerStaticInit6d4f4e950350e042a4f1790be25ef53a
         array (
             0 => __DIR__ . '/..' . '/symfony/cache',
         ),
+        'ScssPhp\\ScssPhp\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/scssphp/scssphp/src',
+        ),
         'Psr\\Log\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/log/src',
@@ -526,6 +534,10 @@ class ComposerStaticInit6d4f4e950350e042a4f1790be25ef53a
         array (
             0 => __DIR__ . '/..' . '/psr/cache/src',
         ),
+        'Praetorius\\ViteAssetCollector\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/praetorius/vite-asset-collector/Classes',
+        ),
         'PhpParser\\' => 
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
@@ -533,6 +545,10 @@ class ComposerStaticInit6d4f4e950350e042a4f1790be25ef53a
         'PHPStan\\PhpDocParser\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpstan/phpdoc-parser/src',
+        ),
+        'Mouf\\NodeJsInstaller\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/mouf/nodejs-installer/src',
         ),
         'Masterminds\\' => 
         array (
@@ -597,6 +613,10 @@ class ComposerStaticInit6d4f4e950350e042a4f1790be25ef53a
         'BaconQrCode\\' => 
         array (
             0 => __DIR__ . '/..' . '/bacon/bacon-qr-code/src',
+        ),
+        'BK2K\\BootstrapPackage\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/bk2k/bootstrap-package/Classes',
         ),
     );
 
